@@ -6,19 +6,20 @@ This is Roku Flashback App project file. This is description page that please do
 
 
 ### Dependencies
-*HTML
-*CSS
-*JavaScript
-*php
-*node.js
-*API
+* HTML
+* CSS
+* JavaScript
+* php
+* node.js
+* API
 
 ### Developing tool:
 Visual Studio Code
 Github
 
 ### Authors:
-*Enmin Bian
+* Enmin Bian
 
 ### Google Drive Link:
 *https://docs.google.com/document/d/18SCNIWMhT4BIF-FntXn35P_6tqMzbqdnDkB0FAqoxXo/edit?usp=sharing
+In this link could show the web design picture.
