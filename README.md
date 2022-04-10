@@ -29,4 +29,4 @@ In this link could show the web design picture.
 * User Name: 123456
 * User Password: 123456
 
-### The files are stored in the Master
+### The files are stored in master Branch
