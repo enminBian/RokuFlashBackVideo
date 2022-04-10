@@ -28,3 +28,5 @@ In this link could show the web design picture.
 ### Website Login Information
 * User Name: 123456
 * User Password: 123456
+
+### The files are stored in the Master
