@@ -1,0 +1,208 @@
+.one{
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.onecon{
+    width: 35%;
+}
+.oneconcenter{
+    width: 35%;
+    text-align: center;
+}
+.oneimg{
+    width: 15%;
+    margin-right: 5%;
+}
+.oneimg img{
+    width: 100%;
+}
+.onetitle p{
+    color: purple;
+    font-size: 30px;
+    font-weight: bold;
+}
+.onec p{
+    line-height: 25px;
+    color: black;
+    font-size: 14px;
+}
+.onebutton{
+    padding: 10px 0;
+}
+button{
+    padding: 5px 10px;
+    color: white;
+    border-radius: 30px;
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+}
+.bg_purple{
+    background-color: purple;
+}
+.bg_green{
+    background-color: limegreen;
+}
+.onebom p{
+    line-height: 25px;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+}
+.bgblack{
+    background-color: black;
+    padding: 30px 0;
+}
+.threetitle{
+    text-align: center;
+}
+.threetitle p{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 60px;
+}
+.threecon{
+    text-align: center;
+    padding: 10px 0;
+}
+.threecon p{
+    line-height: 25px;
+    color: white;
+    font-size: 14px;
+}
+.threeimg{
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.threeimgper{
+    width: 30%;
+}
+.threeimgper img{
+    width: 100%;
+}
+.bgblue{
+    background-color:blueviolet;
+    padding: 30px 0;
+}
+.fourtitle{
+    text-align: center;
+}
+.fourtitle p{
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+.fourcon{
+    text-align: center;
+}
+.fourcon p{
+    line-height: 30px;
+    color: #fff;
+}
+.fourbom{
+    padding: 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.fourper{
+    width: 30%;
+    text-align: center;
+}
+.fourptitle{
+    font-size: 26px;
+    font-weight: bold;
+    color: #fff;
+    line-height: 40px;
+}
+.fourper p{
+    color: #fff;
+    list-style: 25px;
+}
+.fourform{
+    text-align: center;
+    padding: 15px 0 30px 0;
+}
+.formtext{
+    height: 35px;
+    border-radius: 35px 0 0 35px;
+    text-indent: 20px;
+    border: none;
+}
+.formsub{
+    height: 35px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 0 35px 35px 0;
+    padding: 0 15px;
+    font-weight: bold;
+}
+.bgpink{
+    background-color:pink;
+    padding: 30px 0;
+}
+.fivetitle{
+    text-align: center;
+}
+.fivetitle p{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 60px;
+}
+.fivecon{
+    text-align: center;
+    padding: 10px 0;
+}
+.fivecon p{
+    line-height: 25px;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+.fiveimg{
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.fiveimgper{
+    width: 30%;
+}
+.fiveimgper img{
+    width: 100%;
+}
+@media screen and (max-width: 900px) {
+    .onecon{
+        width: 90%; 
+        padding: 1% 5%;
+        text-align: center;
+    }
+    .oneconcenter{
+        width: 90%; 
+        padding: 1% 5%;
+        text-align: center;
+    }
+    .oneimg{
+        width: 90%;
+        padding: 1% 5%;
+        margin-right:0;
+    }
+    .threeimgper{
+        width: 90%;
+        padding: 2% 5%;
+    }
+    .fiveimgper{
+        width: 90%;
+        padding: 2% 5%;
+    }
+}

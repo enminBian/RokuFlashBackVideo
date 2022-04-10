@@ -1,0 +1,71 @@
+.login{
+    display: flex;
+    flex-wrap: wrap;
+}
+.loginimg{
+    width: 60%;
+}
+.loginimg img{
+    width: 100%;
+}
+.logininner{
+    width: 28%;
+    padding: 10% 6%;
+}
+.logintitle{
+    text-align: center;
+}
+.logintitle p{
+    line-height: 60px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.loginper{
+    width: 100%;
+    height: 50px;
+}
+.loginin{
+    width: 100%;
+    height: 35px;
+    background-color: #ddd;
+    border-radius: 35px;
+    display: flex;
+    justify-content:space-around;
+}
+.loginicon{
+    padding: 5px 15px;
+}
+.loginicon img{
+    height: 25px;
+}
+.logincc{
+    width: 100%;
+}
+.formtext{
+    background: none;
+    width: 100%;
+    height: 35px;
+    border: none;
+    outline: none;
+}
+.loginper{
+    text-align: center;
+}
+.loginper button{
+    background-image: url(../images/login/login.png);
+    background-size: cover;
+    width: 120px;
+    height: 35px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+@media screen and (max-width: 900px) {
+    .loginimg{
+        width: 100%;
+    }
+    .logininner{
+        width: 90%;
+        padding: 2% 5%;
+    }
+}

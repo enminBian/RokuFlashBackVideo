@@ -1,0 +1,109 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.header{
+    padding: 15px 0;
+    background-color: black;
+}
+.container{
+    padding: 0 5%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.logo{
+    height: 50px;
+}
+.logo img{
+    height: 50px;
+}
+.nav ul{
+    display: flex;
+    justify-content:space-around;
+}
+.nav ul li{
+    padding: 0 15px;
+}
+.nav ul li a{
+    line-height: 50px;
+    color: white;
+}
+.login ul{
+    display: flex;
+}
+.login ul li{
+    padding: 10px 20px;
+}
+.login ul li img{
+    height: 30px;
+}
+
+
+.footer{
+    padding: 30px 0;
+    background-color: black;
+}
+.footlogo{
+    width: 30%;
+}
+.footerlogo img{
+    width: 100%;
+}
+.footercopy {
+    padding-top: 10px;
+}
+.footercopy p{
+    color: white;
+    font-size: 14px;
+    line-height: 25px;
+}
+.footnav{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footnavper{
+    padding: 0 15px;
+}
+.footnavper ul .foottitle{
+    line-height: 50px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+.footnavper ul li a{
+    line-height: 30px;
+    color: #aaa;
+    font-size: 12px;
+}
+
+@media screen and (max-width: 900px) {
+    .container{
+        padding: 0;
+    }
+    .logo{
+        width: 100%;
+        text-align: center;
+        padding: 10px 0;
+    }
+    .login{
+        display: none;
+    }
+    .footlogo{
+        width: 90%;
+        padding: 2% 5%;
+    }
+    .footnav{
+        width: 90%;
+        padding: 0 5%;
+    }
+    
+}
