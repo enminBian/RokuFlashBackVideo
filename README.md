@@ -1,7 +1,7 @@
 # RokuFlashBackVideo
 
 
-# Assignment Description:
+## Assignment Description:
 This is Roku Flashback App project file. This is description page that please download all files in master branch.
 
 
@@ -17,8 +17,8 @@ This is Roku Flashback App project file. This is description page that please do
 Visual Studio Code
 Github
 
-### Authors
-Enmin Bian
+### Authors:
+*Enmin Bian
 
-###Google Drive Link
-https://docs.google.com/document/d/18SCNIWMhT4BIF-FntXn35P_6tqMzbqdnDkB0FAqoxXo/edit?usp=sharing
+### Google Drive Link:
+*https://docs.google.com/document/d/18SCNIWMhT4BIF-FntXn35P_6tqMzbqdnDkB0FAqoxXo/edit?usp=sharing
