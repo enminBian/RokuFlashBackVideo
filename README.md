@@ -21,5 +21,10 @@ Github
 * Enmin Bian
 
 ### Google Drive Link:
-*https://docs.google.com/document/d/18SCNIWMhT4BIF-FntXn35P_6tqMzbqdnDkB0FAqoxXo/edit?usp=sharing
+* https://docs.google.com/document/d/18SCNIWMhT4BIF-FntXn35P_6tqMzbqdnDkB0FAqoxXo/edit?usp=sharing
 In this link could show the web design picture.
+
+
+### Website Login Information
+* User Name: 123456
+* User Password: 123456
